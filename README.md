@@ -1,5 +1,5 @@
 - I’m @ScarWann, a Ukrainian student trying to get into programming
-- I have some experience with: Python, C++, Bash, HTML, CSS and JS. Also some basic Lua, but only played around with it while making a simple Factorio mod
+- I have some experience with: Python, C++, Bash, HTML, CSS and JS. The most familiar with Python and its many libraries (numpy, mpl, scikit, pandas, numba, etc.)
 - Running Ubuntu daily, planing on switching to Arch soon
 
 <!---
