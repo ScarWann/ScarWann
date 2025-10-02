@@ -1,3 +1,3 @@
-- I’m @ScarWann, a Ukrainian student trying to get into programming
-- I have some experience with: Python, C++, C, Bash, HTML, CSS and JS. Most familiar with Python and its many libraries (numpy, mpl, scikit, pandas, numba, etc.)
+- I’m Oleksii, a Ukrainian student trying to get into data science
+- I have some experience with: Python, C++, C, Bash, SQL, HTML and CSS. Most familiar with Python and its many libraries (numpy, scikit, numba, etc.)
 - Running Ubuntu daily, planing on switching to Arch (and/or Debian) soon
